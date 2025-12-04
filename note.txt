@@ -1,0 +1,6 @@
+cloudbrust prediction system
+
+
+analyzing meteorological parameters and weather patterns can provide valuable
+information for predicting the possibility of cloudbursts. Local meteorological
+agencies and weather forecasting organizations.
